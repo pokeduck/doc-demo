@@ -23,7 +23,7 @@ function HomepageHeader() {
               "button--block",
               "shadow--tl"
             )}
-            to="/mobile/2023-06-23-notification"
+            to="/docs/intro"
           >
             Docusaurus Tutorial - 5min ⏱️
           </Link>
